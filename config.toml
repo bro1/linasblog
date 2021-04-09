@@ -1,4 +1,4 @@
-baseURL = "http://www.centras.info/linasblog"
+baseURL = "https://linasblog.netlify.app"
 languageCode = "en-us"
 title = "Linas NZ"
 theme = "notepadium"
