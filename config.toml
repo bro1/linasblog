@@ -1,0 +1,8 @@
+baseURL = "http://www.centras.info/linasblog"
+languageCode = "en-us"
+title = "Linas NZ"
+theme = "notepadium"
+
+[params.nav]
+showCategories = true       # /categories/
+showTags = false             # /tags/
