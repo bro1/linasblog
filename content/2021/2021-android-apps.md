@@ -3,7 +3,7 @@ date: 2021-04-14T14:10:35.745+13:00
 author: Linas
 summary: Android Apps that I use
 categories:
-  - diary
+  - posts
 title: 2021 Android Apps
 tags:
   - tools
