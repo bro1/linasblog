@@ -13,4 +13,3 @@ tags:
 * [Simple Gallery - Photo and Video Manager & Editor](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery)
 * [Markor](https://play.google.com/store/apps/details?id=net.gsantner.markor) - markdown editor
 * [Sharedr](https://play.google.com/store/apps/details?id=com.rejh.sharedr) - Android share replacement utility  
-
