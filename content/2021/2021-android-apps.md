@@ -17,3 +17,21 @@ tags:
 * [Smart Bookmark: Manage Bookmarks Smarter](https://play.google.com/store/apps/details?id=com.fangleness.smartbookmark) - there are a few websites that I check nearly daily. So I saved them in this simple app (no synchronisation to anything, but you can save backup and restore backup).
 * [Sharedr](https://play.google.com/store/apps/details?id=com.rejh.sharedr) - Android share replacement utility
 * [mgit](https://play.google.com/store/apps/details?id=com.manichord.mgit) - git client for Android
+* [AppLock](https://play.google.com/store/apps/details?id=com.sp.protector.free)
+* [External Keyboard Helper Pro](https://play.google.com/store/apps/details?id=com.apedroid.hwkeyboardhelper)
+* [Fing](https://play.google.com/store/apps/details?id=com.overlook.android.fing)
+* [List My Apps](https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps)
+* [Multi Timer Free](https://play.google.com/store/apps/details?id=org.catfantom.multitimerfree) - set up multiple recurring, looping, etc. timers
+* [Voice](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) - audio book player
+
+## Automation
+* [Automate](https://play.google.com/store/apps/details?id=com.llamalab.automate) 
+* [Trigger](https://play.google.com/store/apps/details?id=com.jwsoft.nfcactionlauncher) 
+
+## Other more mainstream ones
+* [Adobe Acrobat](https://play.google.com/store/apps/details?id=com.adobe.reader) 
+* [Barcode Scanner](https://play.google.com/store/apps/details?id=com.google.zxing.client.android) 
+* [BubbleUPnP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp) 
+* [Microsoft SwiftKey Keyboard](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey) 
+* [Nova7](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) 
+* [Rocket Player](https://play.google.com/store/apps/details?id=com.jrtstudio.AnotherMusicPlayer)
