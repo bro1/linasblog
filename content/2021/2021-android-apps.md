@@ -29,6 +29,7 @@ tags:
 * [Trigger](https://play.google.com/store/apps/details?id=com.jwsoft.nfcactionlauncher) 
 
 ## Other more mainstream ones
+* [Amaze File Manager](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
 * [Adobe Acrobat](https://play.google.com/store/apps/details?id=com.adobe.reader) 
 * [Barcode Scanner](https://play.google.com/store/apps/details?id=com.google.zxing.client.android) 
 * [BubbleUPnP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp) 
