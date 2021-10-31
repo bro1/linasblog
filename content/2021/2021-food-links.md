@@ -15,3 +15,9 @@ tags:
 * [Dole Banana Recipes](https://www.dolenz.co.nz/recipes/bananas)
 * [Eat Like A Sultan Medieval Arab Cooking](http://eatlikeasultan.com/)
 
+
+
+
+## Individual recipes
+
+* [Truly Crispy Oven Baked Chicken Tenders](https://www.recipetineats.com/truly-golden-crunchy-baked-chicken-tenders-less-mess/)
