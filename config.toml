@@ -3,6 +3,14 @@ languageCode = "en-us"
 title = "Linas NZ"
 theme = "notepadium"
 
+[params]
+mainSections = ['2021', '2022']
+
 [params.nav]
 showCategories = true       # /categories/
 showTags = false             # /tags/
+
+[[params.nav.custom]]
+title = "Diary - older entries"
+url = "/categories/diary"
+

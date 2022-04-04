@@ -21,8 +21,10 @@
 
 {{- end -}}
 
-
+{{/*
 {{- $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) -}}
+<!-- $paginator := .Paginate site.RegularPages -->
 {{- partial "note-list.html" $paginator -}}
 {{- partial "pagination.html" $paginator -}}
+*/}}
 {{- end -}}
