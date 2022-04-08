@@ -36,3 +36,5 @@ tags:
 * [Microsoft SwiftKey Keyboard](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey) 
 * [Nova7](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) 
 * [Rocket Player](https://play.google.com/store/apps/details?id=com.jrtstudio.AnotherMusicPlayer)
+* [@Voice Aloud Reader (TTS Reader)](https://play.google.com/store/apps/details?id=com.hyperionics.avar&gl=US) - listen to your e-books via text to speech
+
