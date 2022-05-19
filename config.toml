@@ -2,6 +2,7 @@ baseURL = "https://linasblog.netlify.app"
 languageCode = "en-us"
 title = "Linas NZ"
 theme = "notepadium"
+paginate = 20000
 
 [params]
 mainSections = ['2021', '2022']
