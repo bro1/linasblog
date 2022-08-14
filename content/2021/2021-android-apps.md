@@ -29,6 +29,7 @@ tags:
 * [Trigger](https://play.google.com/store/apps/details?id=com.jwsoft.nfcactionlauncher) 
 
 ## Other more mainstream ones
+* [Aegis Authenticator - 2FA App](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) - use instead of Google Authenticator. You can actually backup the data.
 * [Amaze File Manager](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
 * [Adobe Acrobat](https://play.google.com/store/apps/details?id=com.adobe.reader) 
 * [Barcode Scanner](https://play.google.com/store/apps/details?id=com.google.zxing.client.android) 
@@ -37,4 +38,3 @@ tags:
 * [Nova7](https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher) 
 * [Rocket Player](https://play.google.com/store/apps/details?id=com.jrtstudio.AnotherMusicPlayer)
 * [@Voice Aloud Reader (TTS Reader)](https://play.google.com/store/apps/details?id=com.hyperionics.avar&gl=US) - listen to your e-books via text to speech
-
