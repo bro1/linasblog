@@ -10,28 +10,6 @@ tags:
 
 ---
 
-## News
-* [Legible News](https://legiblenews.com/) 
-* [RNZ](https://www.rnz.co.nz/)
-* [Stuff](https://www.stuff.co.nz/)
-* [Delfi](https://www.delfi.lt/)
-* [Lrytas](https://www.lrytas.lt/)
-* [15 min](https://www.15min.lt/)
-
-## Weather
-
-* [Wellington Central Weather - MetService](https://www.metservice.com/towns-cities/locations/wellington)
-* [Wellington, Briefsky](https://briefsky.app/?provider=openmeteo&location=-41.29%2C174.768&units=metric)
-* [Paekakariki (Ōtaki) - MetService](https://www.metservice.com/rural/regions/kapiti-horowhenua/locations/otaki)
-
-## Food
-* [Free & Discount Ebooks, Books, and Novels - BookBub](https://www.bookbub.com/ebook-deals?categories=cooking)
-* [Nonfiction, Cooking & Food - Wellington City Libraries - OverDrive](https://wcl.overdrive.com/search?mediaType=ebook&subject=111&subject=14&sortBy=newlyadded)
-* [Newest Recipes - Food52](https://food52.com/recipes/newest?tag=test-kitchen-approved)
-
-
-
-
 <style>
 .container {
     display: grid;
@@ -45,6 +23,46 @@ tags:
 }
 
 </style>
+
+
+
+## News
+
+
+<div id="grid" class="container">
+  <a href="https://legiblenews.com/"><div class="btn">Legible News</div></a>
+  <a href="https://www.rnz.co.nz/"><div class="btn">RNZ</div></a>
+  <a href="https://www.stuff.co.nz/"><div class="btn">Stuff</div></a>
+  <a href="https://www.delfi.lt/"><div class="btn">Delfi</div></a>
+  <a href="https://www.lrytas.lt/"><div class="btn">Lrytas</div></a>
+  <a href="https://www.15min.lt/"><div class="btn">15 min</div></a>
+</div>
+
+
+## Weather
+
+
+
+<div id="grid" class="container">
+  <a href="https://www.metservice.com/towns-cities/locations/wellington"><div class="btn">Wellington Central Weather - MetService</div></a>
+  <a href="https://briefsky.app/?provider=openmeteo&location=-41.29%2C174.768&units=metric"><div class="btn">Wellington, Briefsky</div></a>
+  <a href="https://www.metservice.com/rural/regions/kapiti-horowhenua/locations/otaki"><div class="btn">Paekakariki (Ōtaki) - MetService</div></a>
+</div>
+
+
+
+## Food
+
+
+<div id="grid" class="container">
+  <a href="https://www.bookbub.com/ebook-deals?categories=cooking"><div class="btn">Free & Discount Ebooks, Books, and Novels - BookBub</div></a>
+  <a href="https://wcl.overdrive.com/search?mediaType=ebook&subject=111&subject=14&sortBy=newlyadded"><div class="btn">Nonfiction, Cooking & Food - Wellington City Libraries - OverDrive</div></a>
+  <a href="https://food52.com/recipes/newest?tag=test-kitchen-approved"><div class="btn">Newest Recipes - Food52</div></a>
+
+</div>
+
+
+
 
 
 ## Dev/IT news 
