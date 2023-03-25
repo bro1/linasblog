@@ -4,6 +4,9 @@ title = "Linas NZ"
 theme = "notepadium"
 paginate = 20000
 
+[markup.goldmark.renderer]
+unsafe = true  # enable raw HTML in Markdown
+
 [params]
 mainSections = ['2021', '2022']
 

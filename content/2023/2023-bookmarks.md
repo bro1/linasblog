@@ -29,8 +29,32 @@ tags:
 * [Nonfiction, Cooking & Food - Wellington City Libraries - OverDrive](https://wcl.overdrive.com/search?mediaType=ebook&subject=111&subject=14&sortBy=newlyadded)
 * [Newest Recipes - Food52](https://food52.com/recipes/newest?tag=test-kitchen-approved)
 
-## Dev/IT news
-* [Hacker News](https://news.ycombinator.com/)
-* [Lobsters](https://lobste.rs/)
-* [Slashdot: News for nerds, stuff that matters](https://slashdot.org/)
-* [daily.dev | The Homepage Developers Deserve](https://app.daily.dev/)
+
+
+
+<style>
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+}
+.btn {
+    background-color: #dddddd;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+</style>
+
+
+## Dev/IT news 
+<div id="grid" class="container">
+  <a href="https://news.ycombinator.com/"><div class="btn">Hacker News</div></a>
+  <a href="https://lobste.rs/"><div class="btn">Lobste.rs</div></a>
+  <a href="https://slashdot.org/"><div class="btn">Slashdot</div></a>
+  <a href="https://app.daily.dev/"><div class="btn">daily.dev</div></a>
+</div>
+
+
+
+
