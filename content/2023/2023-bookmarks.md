@@ -44,6 +44,7 @@ tags:
   <a href="https://www.metservice.com/towns-cities/locations/wellington" target="_blank"><div class="btn">Wellington Central Weather - MetService</div></a>
   <a href="https://briefsky.app/?provider=openmeteo&location=-41.29%2C174.768&units=metric" target="_blank"><div class="btn">Wellington, Briefsky</div></a>
   <a href="https://www.metservice.com/rural/regions/kapiti-horowhenua/locations/otaki" target="_blank"><div class="btn">Paekakariki (Ōtaki) - MetService</div></a>
+  <a href="https://earth.nullschool.net/#current/wind/surface/level/orthographic=-183.17,-41.43,2199/loc=174.683,-41.282" target="_blank"><div class="btn">Earth Nullschool</div></a>
 </div>
 
 
