@@ -48,6 +48,12 @@ tags:
 </div>
 
 
+<div id="grid" class="container">
+  <a href="https://briefsky.app/?provider=openmeteo&location=54.9%2C25.3&units=metric&title=Purnuskes" target="_blank"><div class="btn">Orai pas tėvus</div></a>
+  <a href="https://www.google.com/search?q=orai+purnuskes" target="_blank">Google Orai<div class="btn"></div></a>
+</div>
+
+
 ## Food
 
 <div id="grid" class="container">
