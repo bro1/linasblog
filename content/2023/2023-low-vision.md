@@ -34,8 +34,8 @@ I envisage Android phone with numeric hardware keyboard with just a few things:
 * 1: rewind
 * 2: play book
 * 3: forward
-* 4: previous book (and read book title)
-* 6: next book (and read book title)
+* 4: previous book (and maybe read book title)
+* 6: next book (and maybe read book title)
 
 ### Podcast functionality
 
@@ -54,3 +54,6 @@ I envisage Android phone with numeric hardware keyboard with just a few things:
 ### What is numeric keyboard?
 ![A small keyboard with USB cord. It has only 18 keys - numbers, arithmetic operations and several others](/2023/keyboard.jpg)
 
+### What can this be based on?
+
+* Audio book player Voice [github link](https://github.com/PaulWoitaschek/Voice)
