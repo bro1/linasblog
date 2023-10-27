@@ -7,43 +7,23 @@
 
 <script>
 function calc() {
-// Get the input element by its ID
   var inputFile = document.getElementById("file");
-
-  // Get the output element by its ID
   var outputElement = document.getElementById("out");
-
- // Clear the existing content of the output element
   outputElement.innerHTML = "";
-
-  // Get the value of the input element
   var fileValue = inputFile.value;
-  
-  
   var out = getTextAfterContent(fileValue);
-
-  // Create a new element to display the value
   var resultElement = document.createElement("p");
   resultElement.textContent = "![alt text](" + out + ")";
-
-  // Append the result element as a child of the output element
   outputElement.appendChild(resultElement);
 }
 
 
-
 function getTextAfterContent(inputFile) {
-  // Find the index of "/content/"
   const contentIndex = inputFile.indexOf("/content/");
-
-  // Check if "/content/" was found
   if (contentIndex !== -1) {
-    // Get the text after "/content/"
-    const textAfterContent = inputFile.substring(contentIndex + 8); // 9 is the length of "/content/"
-
+    const textAfterContent = inputFile.substring(contentIndex + 8); // 8 is the length of "/content" - we want the last "/" to be part of image
     return textAfterContent;
-  } else {
-    // Return an empty string or handle the case where "/content/" is not found
+  } else {  
     return "";
   }
 }

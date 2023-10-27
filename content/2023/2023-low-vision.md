@@ -31,11 +31,13 @@ I envisage Android phone with numeric hardware keyboard with just a few things:
 
 ### Audio book functionality
 
-* 1: rewind
-* 2: play book
-* 3: forward
+* 0: play book
+* 1: previous chapter
+* 3: next chapter
 * 4: previous book (and maybe read book title)
 * 6: next book (and maybe read book title)
+
+![Audio book keyboard shortcuts](/2023/keyboard.drawio.png)
 
 ### Podcast functionality
 
@@ -57,3 +59,4 @@ I envisage Android phone with numeric hardware keyboard with just a few things:
 ### What can this be based on?
 
 * Audio book player Voice [github link](https://github.com/PaulWoitaschek/Voice)
+  * My branch of Voice audio book player [github](https://github.com/bro1/Voice)
