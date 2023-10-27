@@ -10,14 +10,13 @@ tags:
 
 ---
 
-I have done a bit of an experiment and baked bread in an air fryer.
+I have done a small experiment - baked bread in an air fryer.
 
 I am sure I used quite a bit less energy as compared to oven.
 
 It's definitely not as flexible of what shape I can bake, but the crust was crunchy and it tasted right.
 
 I have bought a special baking tin for the air fryer though.
-
 
 ## Method
 
@@ -38,8 +37,9 @@ My starting guidance/idea for the baking process was based on this: [https://www
 
 ## Pictures
 
-![alt text](/2023/2023-airfryer-tin.jpg)
 ![alt text](/2023/2023-airfryer-bread-1.jpg)
 ![alt text](/2023/2023-airfryer-bread-2.jpg)
+![alt text](/2023/2023-airfryer-tin.jpg)
 
-[My post on Facebook](https://www.facebook.com/groups/385677904952033/posts/2262031277316677/)
+
+[My post on Facebook in NZ Sourdough Bakers group](https://www.facebook.com/groups/385677904952033/posts/2262031277316677/)
