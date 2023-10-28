@@ -41,7 +41,9 @@ I envisage Android phone with numeric hardware keyboard with just a few things:
 
 ### Podcast functionality
 
-* TBD
+In the meanwhile I am thinking of just putting whole bunch of podcast episodes via SyncThing to be used by audio book app.
+
+But in the future it may be good to update some open source app to have a good support for hardware keyboards. 
 
 ### Synchting
 
