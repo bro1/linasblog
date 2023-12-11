@@ -22,7 +22,8 @@ tags:
 * [Fing](https://play.google.com/store/apps/details?id=com.overlook.android.fing)
 * [List My Apps](https://play.google.com/store/apps/details?id=de.onyxbits.listmyapps)
 * [Multi Timer Free](https://play.google.com/store/apps/details?id=org.catfantom.multitimerfree) - set up multiple recurring, looping, etc. timers
-* [Voice](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) - audio book player
+* [Voice](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) - audio book player (open source)
+* [Ghost Commander | F-Droid](https://f-droid.org/en/packages/com.ghostsq.commander/) - double pane file manager
 
 ## Automation
 * [Automate](https://play.google.com/store/apps/details?id=com.llamalab.automate) 
