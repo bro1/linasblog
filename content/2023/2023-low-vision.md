@@ -62,3 +62,14 @@ But in the future it may be good to update some open source app to have a good s
 
 * Audio book player Voice [github link](https://github.com/PaulWoitaschek/Voice)
   * My branch of Voice audio book player [github](https://github.com/bro1/Voice)
+
+
+### Updates / diary
+
+#### 2023-12-07
+
+* Setting up Automate to autolaunch Voice:
+  * runs every 15 seconds
+  * checks if Voice is in the foreground
+  * launches Voice if it's not in the foreground
+
