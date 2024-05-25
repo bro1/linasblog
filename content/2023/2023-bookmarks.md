@@ -48,12 +48,10 @@ tags:
   <a href="https://earth.nullschool.net/#current/wind/surface/level/orthographic=-183.17,-41.43,2199/loc=174.683,-41.282" target="_blank"><div class="btn">Earth Nullschool</div></a>
 </div>
 
-
 <div id="grid" class="container">
-  <a href="https://briefsky.app/?provider=openmeteo&location=54.9%2C25.3&units=metric&title=Purnuskes" target="_blank"><div class="btn">Orai pas tėvus</div></a>
-  <a href="https://www.google.com/search?q=orai+purnuskes" target="_blank">Google Orai<div class="btn"></div></a>
+  <a href="https://briefsky.app/?provider=openmeteo&location=54.9%2C25.3&units=metric&title=Purnuskes" target="_blank"><div class="btn">Orai LT</div></a>
+  <a href="https://www.google.com/search?q=orai+purnuskes" target="_blank"><div class="btn">Google Orai</div></a>
 </div>
-
 
 ## Food
 
