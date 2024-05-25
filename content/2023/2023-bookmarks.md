@@ -16,9 +16,10 @@ tags:
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
 }
 .btn {
-    background-color: #dddddd;
+    background-color: #dddddd;    
     padding: 5px;
     margin: 5px;
+    height: 90%;
     text-align: center;
 }
 
@@ -56,13 +57,11 @@ tags:
 ## Food
 
 <div id="grid" class="container">
-  <a href="https://www.bookbub.com/ebook-deals?categories=cooking" target="_blank"><div class="btn">Free & Discount Ebooks, Books, and Novels - BookBub</div></a>
-  <a href="https://wcl.overdrive.com/search?mediaType=ebook&subject=111&subject=14&sortBy=newlyadded" target="_blank"><div class="btn">Nonfiction, Cooking & Food - Wellington City Libraries - OverDrive</div></a>
+  <a href="https://www.bookbub.com/ebook-deals?categories=cooking" target="_blank"><div class="btn">BookBub - cooking</div></a>
+  <a href="https://wcl.overdrive.com/search?mediaType=ebook&subject=111&subject=14&sortBy=newlyadded" target="_blank"><div class="btn">Cooking - OverDrive</div></a>
   <a href="https://food52.com/recipes/newest?tag=test-kitchen-approved" target="_blank"><div class="btn">Newest Recipes - Food52</div></a>
   <a href="https://www.seriouseats.com/all-recipes-5117985" target="_blank"><div class="btn">Recipes - Serious Eats</div></a>
-  <a href="https://www.recipetineats.com/" target="_blank"><div class="btn">recipe<b>tin</b>eats</div></a>
-  
-
+  <a href="https://www.recipetineats.com/" target="_blank"><div class="btn">recipetineats</div></a>
 </div>
 
 ## Other usual links
