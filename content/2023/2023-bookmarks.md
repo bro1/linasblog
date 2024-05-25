@@ -61,8 +61,20 @@ tags:
   <a href="https://www.bookbub.com/ebook-deals?categories=cooking" target="_blank"><div class="btn">Free & Discount Ebooks, Books, and Novels - BookBub</div></a>
   <a href="https://wcl.overdrive.com/search?mediaType=ebook&subject=111&subject=14&sortBy=newlyadded" target="_blank"><div class="btn">Nonfiction, Cooking & Food - Wellington City Libraries - OverDrive</div></a>
   <a href="https://food52.com/recipes/newest?tag=test-kitchen-approved" target="_blank"><div class="btn">Newest Recipes - Food52</div></a>
+  <a href="https://www.seriouseats.com/all-recipes-5117985" target="_blank"><div class="btn">Recipes - Serious Eats</div></a>
+  <a href="https://www.recipetineats.com/" target="_blank"><div class="btn">recipe<b>tin</b>eats</div></a>
+  
+
 </div>
 
+## Other usual links
+
+<div id="grid" class="container">
+  <a href="https://www.countdown.co.nz/shop/content/weeklymailer#catalogueList" target="_blank"><div class="btn">Weekly mailer</div></a>
+  <a href="https://catalogue.wcl.govt.nz/?section=myAccount" target="_blank"><div class="btn">Wellington Library my books</div></a>
+  <a href="https://www.atschool.co.nz/app/home" target="_blank"><div class="btn">@School</div></a>
+  
+</div>
 
 ## Dev/IT news 
 <div id="grid" class="container">
@@ -71,7 +83,4 @@ tags:
   <a href="https://slashdot.org/" target="_blank"><div class="btn">Slashdot</div></a>
   <a href="https://app.daily.dev/" target="_blank"><div class="btn">daily.dev</div></a>
 </div>
-
-
-
 
