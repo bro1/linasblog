@@ -34,6 +34,8 @@ tags:
   <a href="https://legiblenews.com/" target="_blank"><div class="btn">Legible News</div></a>
   <a href="https://www.rnz.co.nz/" target="_blank"><div class="btn">RNZ</div></a>
   <a href="https://www.stuff.co.nz/" target="_blank"><div class="btn">Stuff</div></a>
+  <a href="https://www.spinoff.co.nz/" target="_blank"><div class="btn">Spinoff</div></a>  
+  <a href="https://www.nzherald.co.nz/" target="_blank"><div class="btn">NZ Herald</div></a>  
   <a href="https://www.lrt.lt/" target="_blank"><div class="btn">LRT</div></a>
   <a href="https://www.delfi.lt/" target="_blank"><div class="btn">Delfi</div></a>
   <a href="https://www.lrytas.lt/" target="_blank"><div class="btn">Lrytas</div></a>
