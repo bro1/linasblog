@@ -142,8 +142,8 @@ const musicArtists = [
     "url": "https://www.iheart.com/artist/the-flaming-lips-33830/"
   },
   {
-    "title": "Liquido",
-    "url": "https://www.iheart.com/artist/liquido-3602/"
+    "title": "Liquido - Narcotic",
+    "url": "https://www.iheart.com/artist/liquido-3602/songs/narcotic-33564300/"
   },
   {
     "title": "Shiny Toy Guns",
