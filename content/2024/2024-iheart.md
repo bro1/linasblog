@@ -16,7 +16,7 @@ tags:
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
 }
 .btn {
-    background-color: #dddddd;    
+    background-color: #dddddd;
     padding: 5px;
     margin: 5px;
     height: 90%;
@@ -248,6 +248,10 @@ const musicArtists = [
   {
     "title": "East River Pipe - Summer Boy",
     "url": "https://www.iheart.com/artist/east-river-pipe-281491/songs/summer-boy-128349345/"
+  },
+  {
+    "title": "Bend Sinister",
+    "url": "https://www.iheart.com/artist/bend-sinister-215207/"
   }
 ];
 
@@ -255,5 +259,3 @@ const musicArtistsHTML = renderMusicArtistsHTML(musicArtists);
 document.getElementById('iheart').innerHTML = musicArtistsHTML;
 
 </script>
-
-
