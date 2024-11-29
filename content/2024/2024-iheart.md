@@ -266,6 +266,10 @@ const musicArtists = [
     "url": "https://www.iheart.com/artist/generationals-453972/"
   },  
   {
+    "title": "Kent",
+    "url": "https://www.iheart.com/artist/kent-30729019/"
+  },  
+  {
     "title": "Bend Sinister",
     "url": "https://www.iheart.com/artist/bend-sinister-215207/"
   }
