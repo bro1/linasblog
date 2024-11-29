@@ -250,6 +250,22 @@ const musicArtists = [
     "url": "https://www.iheart.com/artist/east-river-pipe-281491/songs/summer-boy-128349345/"
   },
   {
+    "title": "A House",
+    "url": "https://www.iheart.com/artist/a-house-30426254/"
+  },
+  {
+    "title": "The Jesus and Mary Chain",
+    "url": "https://www.iheart.com/artist/the-jesus-and-mary-chain-949860/"
+  },
+  {
+    "title": "JJ72",
+    "url": "https://www.iheart.com/artist/jj72-212261/"
+  },
+  {
+    "title": "Generationals",
+    "url": "https://www.iheart.com/artist/generationals-453972/"
+  },  
+  {
     "title": "Bend Sinister",
     "url": "https://www.iheart.com/artist/bend-sinister-215207/"
   }
