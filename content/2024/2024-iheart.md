@@ -270,6 +270,14 @@ const musicArtists = [
     "url": "https://www.iheart.com/artist/kent-30729019/"
   },  
   {
+    "title": "Iggy Pop",
+    "url": "https://www.iheart.com/artist/iggy-pop-9649/"
+  },
+  {
+    "title": "The Charlatans",
+    "url": "https://www.iheart.com/artist/the-charlatans-126338/"
+  },    
+  {
     "title": "Bend Sinister",
     "url": "https://www.iheart.com/artist/bend-sinister-215207/"
   }
