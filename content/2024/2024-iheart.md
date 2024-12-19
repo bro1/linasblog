@@ -276,7 +276,11 @@ const musicArtists = [
   {
     "title": "The Charlatans",
     "url": "https://www.iheart.com/artist/the-charlatans-126338/"
-  },    
+  },
+  {
+    "title": "The Darkness",
+    "url": "https://www.iheart.com/artist/the-darkness-60757/"
+  },  
   {
     "title": "Bend Sinister",
     "url": "https://www.iheart.com/artist/bend-sinister-215207/"
