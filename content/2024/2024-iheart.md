@@ -54,6 +54,14 @@ const musicArtists = [
     "url": "https://www.iheart.com/artist/edguy-4953/"
   },
   {
+    "title": "Carter the Unstoppable Sex Machine",
+    "url": "https://www.iheart.com/artist/carter-the-unstoppable-sex-machine-135437/"
+  },
+  {
+    "title": "Carter U.S.M.",
+    "url": "https://www.iheart.com/artist/carter-usm-776102/"
+  },  
+  {
     "title": "The Prodigy",
     "url": "https://www.iheart.com/artist/the-prodigy-37121/"
   },
@@ -95,7 +103,7 @@ const musicArtists = [
   },
   {
     "title": "Sublime",
-    "url": "https://www.iheart.com/artist/nirvana-40473/"
+    "url": "https://www.iheart.com/artist/sublime-6948/"
   },
   {
     "title": "Gnarls Barkley",
