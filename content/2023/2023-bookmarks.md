@@ -33,6 +33,7 @@ tags:
 <div id="grid" class="container">
   <a href="https://legiblenews.com/" target="_blank"><div class="btn">Legible News</div></a>
   <a href="https://www.rnz.co.nz/" target="_blank"><div class="btn">RNZ</div></a>
+  <a href="https://newsroom.co.nz/" target="_blank"><div class="btn">Newsroom</div></a>  
   <a href="https://www.stuff.co.nz/" target="_blank"><div class="btn">Stuff</div></a>
   <a href="https://thespinoff.co.nz/" target="_blank"><div class="btn">Spinoff</div></a>  
   <a href="https://www.nzherald.co.nz/" target="_blank"><div class="btn">NZ Herald</div></a>  
