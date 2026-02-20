@@ -70,9 +70,11 @@ tags:
 ## Other usual links
 
 <div id="grid" class="container">
-  <a href="https://www.countdown.co.nz/shop/content/weeklymailer#catalogueList" target="_blank"><div class="btn">Weekly mailer</div></a>
+  <a href="https://www.countdown.co.nz/shop/content/weeklymailer#catalogueList" target="_blank"><div class="btn">WW mailer</div></a>
+  <a href="https://www.newworld.co.nz/mailer" target="_blank"><div class="btn">NW mailer</div></a>
   <a href="https://catalogue.wcl.govt.nz/?section=myAccount" target="_blank"><div class="btn">Wellington Library my books</div></a>
   <a href="https://www.atschool.co.nz/app/home" target="_blank"><div class="btn">@School</div></a>
+  <a href="https://shop.kindo.co.nz/app/shop" target="_blank"><div class="btn">MyKindo</div></a>
   
 </div>
 
