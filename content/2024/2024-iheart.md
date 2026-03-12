@@ -292,7 +292,25 @@ const musicArtists = [
   {
     "title": "Bend Sinister",
     "url": "https://www.iheart.com/artist/bend-sinister-215207/"
+  },
+  {
+    "title": "22-Pistepirkko",
+    "url": "https://www.iheart.com/artist/22-pistepirkko-30033584/"
+  },
+  {
+    "title": "The Others (Aka 22 Pistepirkko)",
+    "url": "https://www.iheart.com/artist/the-others-aka-22-pistepirkko-30002607/"
+  },
+  {
+    "title": "Arcade Fire",
+    "url": "https://www.iheart.com/artist/arcade-fire-202598/"
+  },
+  {
+    "title": "Death Cab for Cutie",
+    "url": "https://www.iheart.com/artist/death-cab-for-cutie-2812/"
   }
+
+
 ];
 
 const musicArtistsHTML = renderMusicArtistsHTML(musicArtists);
