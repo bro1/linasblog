@@ -308,6 +308,14 @@ const musicArtists = [
   {
     "title": "Death Cab for Cutie",
     "url": "https://www.iheart.com/artist/death-cab-for-cutie-2812/"
+  },
+  {
+    "title": "The White Stripes",
+    "url": "https://www.iheart.com/artist/the-white-stripes-58393/"
+  },
+  {
+    "title": "Lyapis Trubetskoy",
+    "url": "https://www.iheart.com/artist/lyapis-trubetskoy-86115/"
   }
 
 
