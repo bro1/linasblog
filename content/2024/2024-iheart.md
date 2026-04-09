@@ -316,7 +316,28 @@ const musicArtists = [
   {
     "title": "Lyapis Trubetskoy",
     "url": "https://www.iheart.com/artist/lyapis-trubetskoy-86115/"
+  },
+  {
+    "title": "Ezra Furman",
+    "url": "https://www.iheart.com/artist/ezra-furman-906684/"
+  },
+  {
+    "title": "Ezra Furman & the Harpoons",
+    "url": "https://www.iheart.com/artist/ezra-furman-the-harpoons-796064/"
+  },
+  {
+    "title": "Wet Leg",
+    "url": "https://www.iheart.com/artist/wet-leg-36411063/"
+  },
+  {
+    "title": "GAYLE",
+    "url": "https://www.iheart.com/artist/gayle-32080590/"
+  },
+  {
+    "title": "Such Great Heights by The Postal Service",
+    "url": "https://www.iheart.com/artist/the-postal-service-70493/songs/such-great-heights-114229024/"
   }
+
 
 
 ];
