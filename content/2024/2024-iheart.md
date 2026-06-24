@@ -336,10 +336,28 @@ const musicArtists = [
   {
     "title": "Such Great Heights by The Postal Service",
     "url": "https://www.iheart.com/artist/the-postal-service-70493/songs/such-great-heights-114229024/"
+  },
+  {
+    "title": "Red Tape by Agent Provocateur",
+    "url": "https://www.iheart.com/artist/agent-provocateur-729954/songs/red-tape-292543576/"
+  },
+  {
+    "title": "Chemlab",
+    "url": "https://www.iheart.com/artist/chemlab-281/"
+  },
+  {
+    "title": "Of Monsters and Men - Little Talks",
+    "url": "https://www.iheart.com/artist/of-monsters-and-men-678645/songs/little-talks-17307259/"
+  },
+  {
+    "title": "Dana Lyons - Cows with Guns",
+    "url": "https://www.iheart.com/artist/dana-lyons-341768/songs/cows-with-guns-39130439/"
+  },
+  {
+    "title": "Linkin Park - The Emptiness Machine",
+    "url": "https://www.iheart.com/artist/linkin-park-58351/songs/the-emptiness-machine-298340441/"
   }
-
-
-
+  
 ];
 
 const musicArtistsHTML = renderMusicArtistsHTML(musicArtists);
